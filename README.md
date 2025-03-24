@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Red-Scarff ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Red-Scarff)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=000000&center=false&vCenter=false&multiline=true&width=435&lines=%CF%83%CF%87%CE%BF%CE%BB%CE%AE+%CE%B8%CE%B1%CF%85%CE%BC%CE%AC%CE%B6%CF%89+%CE%B5%CE%BB%CE%B5%CF%8D%CE%B8%CE%B5%CF%81%CE%BF%CF%82)](https://git.io/typing-svg)
+
 <!--
 **Red-Scarff/Red-Scarff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
